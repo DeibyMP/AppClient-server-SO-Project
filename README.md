@@ -1,4 +1,4 @@
-# Cliente/Servidor en C - Ejecución Remota de Comandos
+# Aplicación Cliente/Servidor.
 
 ## Descripción
 Este proyecto implementa una aplicación cliente/servidor en C que permite la ejecución remota de comandos. El cliente se conecta al servidor a través de sockets TCP, envía comandos que se ejecutan en el servidor, y recibe las respuestas para mostrarlas localmente. Es compatible con sistemas Windows utilizando la biblioteca Winsock.
